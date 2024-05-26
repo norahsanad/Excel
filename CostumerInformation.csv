@@ -1,0 +1,11 @@
+CustomerID,Gender,Ever_Married,Age,Graduated,Profession,Work_Experience,Spending_Score,Family_Size
+1001,Female,Yes,36,Yes,Engineer,0,Low,1
+1005,Male,Yes,37,Yes,Healthcare,8,Average,4
+1008,Female,Yes,69,No,Doctor,0,Low,1
+1010,Male,Yes,59,No,Executive,11,High,2
+1013,Female,No,19,No,Marketing,2,Low,4
+1014,Male,Yes,47,Yes,Doctor,0,High,5
+1015,Male,Yes,61,Yes,Doctor,5,Low,3
+1016,Female,Yes,47,Yes,Artist,1,Average,3
+1017,Male,Yes,50,Yes,Artist,2,Average,4
+1020,Male,No,19,No,Healthcare,0,Low,4
